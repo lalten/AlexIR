@@ -1,2 +1,5 @@
-build
-*.kdev4
+.pio
+.pioenvs
+.piolibdeps
+.vscode/*
+!.vscode/extensions.json
