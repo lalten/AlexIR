@@ -1,0 +1,12 @@
+[submodule "lib/ESPAsyncTCP"]
+	path = lib/ESPAsyncTCP
+	url = https://github.com/me-no-dev/ESPAsyncTCP.git
+[submodule "lib/fauxmoesp"]
+	path = lib/fauxmoesp
+	url = https://bitbucket.org/xoseperez/fauxmoesp.git
+[submodule "lib/IRremoteESP8266"]
+	path = lib/IRremoteESP8266
+	url = https://github.com/markszabo/IRremoteESP8266.git
+[submodule "lib/arduinoWebSockets"]
+	path = lib/arduinoWebSockets
+	url = https://github.com/Links2004/arduinoWebSockets.git
